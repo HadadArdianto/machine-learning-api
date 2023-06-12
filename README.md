@@ -1,4 +1,4 @@
-# TrashCash Api
+# PlanTani API
 
 ## Local Development
 
